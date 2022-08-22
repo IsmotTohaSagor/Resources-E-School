@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body{
     font-family: 'Montserrat', sans-serif;
+    
    
+}
+.container{
+    margin-bottom: 100px;
 }
 .logo{
     width: 198.07px;
@@ -29,6 +33,8 @@ body{
     background-color: #F0FFF0;;
     height: 450px;
     width: 100%;
+    margin-bottom: 300px;
+    display: flex;
 }
 .caro-img{
     margin-top: 100px;
@@ -59,4 +65,131 @@ body{
     background: #21B573;
     border-radius: 33px;
     color: #F0FFF0;
+}
+.card-img-top-up{
+    width: 74px;
+    height: 85px;
+    margin: 26px auto;
+    padding: 2px;
+}
+.card-title{
+    width: 179px;
+    height: 34px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 2px;
+    text-align: center;
+    margin: auto;
+    color: #413960;
+}
+.card-text{
+    width: 125px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 0px;
+    text-align: center;
+    margin: auto;
+    color: #585859;
+}
+.card-style{
+    border: none;
+    border-radius: 10px;
+    
+}
+.card-bg{
+    background-color: #F8FFFB;;
+}
+.card-box{
+    box-shadow: 2px 5px 10px lightgray ;
+}
+.card-img-top-in{
+    width: 100%;
+    height: 234px;
+    border-radius: 11px;
+    margin: auto;
+    padding: 20px 20px;
+}
+.card-model{
+    width: 370px;
+    height: 453px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-title1{
+    width: 100%;
+    height: 16px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 3px;
+    color: #413960;
+    text-align: left;
+   
+}
+.card-text1{
+    width: 100px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    
+}
+.celndr{
+    width: 24px;
+    height: 24px;
+}
+.people{
+    width: 24px;
+    height: 24px;
+}
+.fotter{
+    display: flex;
+    margin-top: 49px;
+    justify-content: space-between;
+}
+.man{
+    width: 120px;
+    height: 120px;
+    margin: -10px 59px;
+}
+.man-details{
+    width: 580px;
+    height: 90px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.test{
+    width: 219px;
+    height: 54px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    margin:auto;
+}
+.testimonial{
+    margin-top: 60px;
+}
+.foot{
+    width: 100%;
+    height: 369px;
+    background-color: #282531;
+}
+.foot,.last-p,ul{
+    color: #F8FFFB;
+    margin-top: 69px;
+    font-size: 16px;
+}
+.foot,.last-p,ul,li{
+    list-style: none;
+}
+.headdy{
+    font-weight: bold;
+   
+}
+.sml{
+   margin-top: 50px;
+    
 }
